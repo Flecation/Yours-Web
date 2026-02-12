@@ -1,0 +1,10 @@
+Start
+ → Register/Login
+ → Dashboard
+ → Create Site (title + unique slug)
+ → Choose Template
+ → Editor (edit sections + save)
+ → Preview
+ → Publish
+ → Public link (view by slug)
+End
